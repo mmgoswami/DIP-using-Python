@@ -2,8 +2,7 @@
 # Scientific Computing using Python
 
 ## Mukesh M Goswami
-
-![DDUlogo](images/ddulogo.png) 	 
+	 
 ## Dharmsinh Desai University-Nadiad
 #### Faculty of Technology
 #### Department of IT
